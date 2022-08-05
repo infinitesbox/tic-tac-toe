@@ -14,7 +14,7 @@ To have more detail read this following Article (Blog).
 - Français - [Construction jeux 2D](#)
 <br><br>
 
-### Steps
+### Ways
 ---
 There are several Ways, if you test all the Ways you will have a solid background to build Games.
 
