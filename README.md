@@ -9,9 +9,9 @@ To have more detail read this following Article (Blog).
 
 ### Blog
 ---
-- English - [2D Games Building](#)
+- English - [2D Games Building](https://infinitesparkbox.com/blog/2022/08/07/construction-jeux-2d/)
 
-- Français - [Construction jeux 2D](#)
+- Français - [Construction jeux 2D](https://infinitesparkbox.com/blog/2022/08/07/2d-game-building/)
 <br><br>
 
 ### Ways
